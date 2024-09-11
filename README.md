@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Stackoverflow Application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/1NoobMaster1](https://github.com/1NoobMaster1)
+- 👨‍💻 All of my projects are available at [https://github.com/1NoobMaster1] (https://github.com/1NoobMaster1)
 
-- 📝 I regularly write articles on [https://github.com/1NoobMaster1](https://github.com/1NoobMaster1)
+- 📝 I regularly write articles on [https://github.com/1NoobMaster1] (https://github.com/1NoobMaster1)
 
 - 💬 Ask me about **Angular & SpringBoot Frameworks**
 
 - 📫 How to reach me **ayankhan1186@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/1NoobMaster1 & https://github.com/CC-Jitters](https://github.com/1NoobMaster1 & https://github.com/CC-Jitters)
+- 📄 Know about my experiences [https://github.com/1NoobMaster1 & https://github.com/CC-Jitters] (https://github.com/1NoobMaster1 & https://github.com/CC-Jitters)
 
 - ⚡ Fun fact **I'm Straight**
 
